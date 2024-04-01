@@ -1,5 +1,7 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+# Youtube Vlogs-Website
+The website build using HTML5, CSS3, JavaScript.
+
+GujaratizZ
 
 <a href="https://gujaratizz.me/" target="_blank">**Visit Now** 🚀</a>
 
@@ -15,6 +17,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Gujaratizz Peek of Main Page 🙈 :
 			                                    🙈  https://gujaratizz.me 🙈
+				       
 ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
 
@@ -25,7 +28,7 @@ If you want to contact me, you can reach me through below handles.
 
 <a href="https://www.instagram.com/gujaratizz/?igshid=YmMyMTA2M2Y%3D /" target="_red">**Visit Now** 🚀</a>
 
-© 2022 MEET JOSHI 
+© 2024 MEET JOSHI 
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.youtube.com/channel/UC8bJhrJY8Dn8PB8EhlM7OXg)
